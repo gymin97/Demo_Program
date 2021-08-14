@@ -1,0 +1,17 @@
+가상환경 : facedemo
+파일소개
+
+환경:
+cuda 10.1
+cudnn 7.6.5
+tensorflow 2.2
+python 3.8
+
+필요한 모듈: 
+opencv
+mxnet101==1.5.0
+cython -> make 하기
+scikit-learn
+easydict
+scikit-image
+
